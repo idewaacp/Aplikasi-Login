@@ -1,3 +1,12 @@
+/** @constant
+    @type {string}
+    @default
+*/
+const RED = 'FF0000';
+
+/** @constant {number} */
+var ONE = 1;
+
 /** @module Login-Script */
 /** 
 * Membuat variabel loginFormElement untuk tampilan form.
